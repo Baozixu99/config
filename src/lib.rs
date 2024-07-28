@@ -1,3 +1,4 @@
+#![no_std]
 #![allow(unused)]
 // Sizes
 pub const MEMORY_SIZE: usize = 0x1000_0000;
